@@ -10,7 +10,7 @@ echo "Beginning data manipulation"
 
 echo "Excuting Python Script"
 
-python3 CSV_Work_Parser.py
+python3 main.py
 
 echo "Finishing..."
 
