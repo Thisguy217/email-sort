@@ -14,7 +14,7 @@ echo Beginning data manipulation
 
 echo excuting Python Script
 
-python CSV_Work_Parser.py
+python main.py
 
 echo Finishing...
 
